@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\2500k\\Desktop\\Julio\\C#\\aulas\\aula2\\aula2.csproj": {}
+    "C:\\Users\\2500k\\Desktop\\Julio\\cursoemvideoC\\aulas\\aula2\\aula2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\2500k\\Desktop\\Julio\\C#\\aulas\\aula2\\aula2.csproj": {
+    "C:\\Users\\2500k\\Desktop\\Julio\\cursoemvideoC\\aulas\\aula2\\aula2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\2500k\\Desktop\\Julio\\C#\\aulas\\aula2\\aula2.csproj",
+        "projectUniqueName": "C:\\Users\\2500k\\Desktop\\Julio\\cursoemvideoC\\aulas\\aula2\\aula2.csproj",
         "projectName": "aula2",
-        "projectPath": "c:\\Users\\2500k\\Desktop\\Julio\\C#\\aulas\\aula2\\aula2.csproj",
+        "projectPath": "C:\\Users\\2500k\\Desktop\\Julio\\cursoemvideoC\\aulas\\aula2\\aula2.csproj",
         "packagesPath": "C:\\Users\\2500k\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\2500k\\Desktop\\Julio\\C#\\aulas\\aula2\\obj\\",
+        "outputPath": "C:\\Users\\2500k\\Desktop\\Julio\\cursoemvideoC\\aulas\\aula2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
