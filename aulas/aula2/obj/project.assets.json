@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2500k\\Desktop\\Julio\\cursoemvideoC\\aulas\\aula2\\aula2.csproj",
+      "projectUniqueName": "C:\\Users\\2500k\\Desktop\\Julio\\CFBcursos\\aulas\\aula2\\aula2.csproj",
       "projectName": "aula2",
-      "projectPath": "C:\\Users\\2500k\\Desktop\\Julio\\cursoemvideoC\\aulas\\aula2\\aula2.csproj",
+      "projectPath": "C:\\Users\\2500k\\Desktop\\Julio\\CFBcursos\\aulas\\aula2\\aula2.csproj",
       "packagesPath": "C:\\Users\\2500k\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2500k\\Desktop\\Julio\\cursoemvideoC\\aulas\\aula2\\obj\\",
+      "outputPath": "C:\\Users\\2500k\\Desktop\\Julio\\CFBcursos\\aulas\\aula2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
