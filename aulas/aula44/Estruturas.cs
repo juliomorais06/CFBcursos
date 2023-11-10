@@ -5,11 +5,11 @@ using System;
 //como não é CLASSE, não pode herdar nem servir como base para herança
 //pode ter construtor
 
-struct Carro{
+struct CarrO{
     public string marca;
     public string modelo;
     public string cor;
-    public Carro(string marca, string modelo, string cor){
+    public CarrO(string marca, string modelo, string cor){
         this.marca = marca;
         this.modelo = modelo;
         this.cor = cor;
@@ -21,13 +21,11 @@ struct Carro{
 
 class Estrutura{
     static void Main(){
-        Carro c1; //sem utilizar o construtor
-        c1.marca = "VW";
-        c1.modelo = "GOLF";
-        c1.cor = "BRANCO";
-        c1.info();
+        CarrO c10; //sem utilizar o construtor
+        c10.marca = "VW";
+        c10.modelo = "GOLF";
+        c10.cor = "BRANCO";
+        c10.info();
 
-        Carro c2 = new Carro("HONDA", "CIVIC", "PRETO"); //utilizando o construtor
-        c2.info();
     }
 }
