@@ -13,6 +13,8 @@ class ExcecoesP1{
         }catch(Exception e){
             Console.WriteLine("ERRO: {0}", e.Message);
             Console.WriteLine("Ex: {0}", e.GetType());
+        }finally{//é executato independentemente se houve ou não a exceção
+            Console.WriteLine("Fim do processo");
         }
     }
 }
