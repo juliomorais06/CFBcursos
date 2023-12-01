@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sU6pWQfYBfdFlNy8lZ+WHBCQtfjRf3NVDsnxWJ9kVOq51vARyw7yk5Di3lZ/7S0yKrKfBO99XhOqBs9NySbQwQ==",
+  "dgSpecHash": "R/TZP+Wb+Nhh4I75LVw6pkDytH/pTrJn2qREaNLU7DqhARjd6qXLANsCUdg00eMsosqpNKJ9CWFlw6EWXhqgsw==",
   "success": true,
   "projectFilePath": "C:\\Users\\2500k\\Desktop\\Julio\\CFBcursos\\aulas\\aula2\\aula2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\2500k\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

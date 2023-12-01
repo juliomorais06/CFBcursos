@@ -1,0 +1,10 @@
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\aula60\bin\Debug\aula60.exe.config
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\aula60\bin\Debug\aula60.exe
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\aula60\bin\Debug\aula60.pdb
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\aula60\obj\Debug\aula60.csproj.AssemblyReference.cache
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\aula60\obj\Debug\aula60.Form1.resources
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\aula60\obj\Debug\aula60.Properties.Resources.resources
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\aula60\obj\Debug\aula60.csproj.GenerateResource.cache
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\aula60\obj\Debug\aula60.csproj.CoreCompileInputs.cache
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\aula60\obj\Debug\aula60.exe
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\aula60\obj\Debug\aula60.pdb
