@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace aula60
 {
-    public partial class Form1 : Form
+    public partial class F_Principal : Form
     {
-        public Form1()
+        public F_Principal()
         {
             InitializeComponent();
         }
@@ -20,6 +20,11 @@ namespace aula60
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void btn_texto_Click(object sender, EventArgs e)
+        {
+           lb_texto.Text = tb_texto.Text;
         }
     }
 }
