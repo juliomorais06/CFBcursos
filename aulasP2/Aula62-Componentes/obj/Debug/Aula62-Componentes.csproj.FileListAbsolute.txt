@@ -1,0 +1,10 @@
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\bin\Debug\Aula63-Componentes.exe.config
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\bin\Debug\Aula63-Componentes.exe
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\bin\Debug\Aula63-Componentes.pdb
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula62-Componentes.csproj.AssemblyReference.cache
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula63_Componentes.F_Principal.resources
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula63_Componentes.Properties.Resources.resources
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula62-Componentes.csproj.GenerateResource.cache
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula62-Componentes.csproj.CoreCompileInputs.cache
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula63-Componentes.exe
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula63-Componentes.pdb
