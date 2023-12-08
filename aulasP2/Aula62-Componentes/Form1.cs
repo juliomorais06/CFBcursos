@@ -12,9 +12,11 @@ namespace Aula63_Componentes
 {
     public partial class F_Principal : Form
     {
+        public int num;
         public F_Principal()
         {
             InitializeComponent();
+            num = 0;
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -47,8 +49,13 @@ namespace Aula63_Componentes
 
         private void btn_mostrar_Click(object sender, EventArgs e)
         {
-            F_Veiculos f_Veiculos = new F_Veiculos(tb_listaVeiculos.Text);
+            F_Veiculos f_Veiculos = new F_Veiculos(tb_listaVeiculos.Text, this);
             f_Veiculos.ShowDialog();
+        }
+
+        private void btn_valNum_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(num.ToString());
         }
     }
 }

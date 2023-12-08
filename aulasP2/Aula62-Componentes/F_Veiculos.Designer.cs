@@ -28,29 +28,29 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.tb_listaVeiculos = new System.Windows.Forms.TextBox();
+            this.tb_listaVeiculos2 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // tb_listaVeiculos
+            // tb_listaVeiculos2
             // 
-            this.tb_listaVeiculos.Location = new System.Drawing.Point(12, 12);
-            this.tb_listaVeiculos.Multiline = true;
-            this.tb_listaVeiculos.Name = "tb_listaVeiculos";
-            this.tb_listaVeiculos.ReadOnly = true;
-            this.tb_listaVeiculos.Size = new System.Drawing.Size(556, 459);
-            this.tb_listaVeiculos.TabIndex = 0;
+            this.tb_listaVeiculos2.Location = new System.Drawing.Point(12, 12);
+            this.tb_listaVeiculos2.Multiline = true;
+            this.tb_listaVeiculos2.Name = "tb_listaVeiculos2";
+            this.tb_listaVeiculos2.Size = new System.Drawing.Size(556, 459);
+            this.tb_listaVeiculos2.TabIndex = 0;
             // 
             // F_Veiculos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(580, 483);
-            this.Controls.Add(this.tb_listaVeiculos);
+            this.Controls.Add(this.tb_listaVeiculos2);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
             this.Name = "F_Veiculos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Lista de Veículos";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.F_Veiculos_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -58,6 +58,6 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox tb_listaVeiculos;
+        private System.Windows.Forms.TextBox tb_listaVeiculos2;
     }
 }

@@ -34,6 +34,7 @@
             this.tb_listaVeiculos = new System.Windows.Forms.TextBox();
             this.btn_limpar = new System.Windows.Forms.Button();
             this.btn_mostrar = new System.Windows.Forms.Button();
+            this.btn_valNum = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btn_adicionar
@@ -93,11 +94,22 @@
             this.btn_mostrar.UseVisualStyleBackColor = true;
             this.btn_mostrar.Click += new System.EventHandler(this.btn_mostrar_Click);
             // 
+            // btn_valNum
+            // 
+            this.btn_valNum.Location = new System.Drawing.Point(15, 364);
+            this.btn_valNum.Name = "btn_valNum";
+            this.btn_valNum.Size = new System.Drawing.Size(273, 23);
+            this.btn_valNum.TabIndex = 6;
+            this.btn_valNum.Text = "Valor da variável num";
+            this.btn_valNum.UseVisualStyleBackColor = true;
+            this.btn_valNum.Click += new System.EventHandler(this.btn_valNum_Click);
+            // 
             // F_Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(301, 364);
+            this.ClientSize = new System.Drawing.Size(301, 389);
+            this.Controls.Add(this.btn_valNum);
             this.Controls.Add(this.btn_mostrar);
             this.Controls.Add(this.btn_limpar);
             this.Controls.Add(this.tb_listaVeiculos);
@@ -119,9 +131,10 @@
         private System.Windows.Forms.Button btn_adicionar;
         private System.Windows.Forms.TextBox tb_veiculo;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox tb_listaVeiculos;
         private System.Windows.Forms.Button btn_limpar;
         private System.Windows.Forms.Button btn_mostrar;
+        private System.Windows.Forms.Button btn_valNum;
+        public System.Windows.Forms.TextBox tb_listaVeiculos;
     }
 }
 
