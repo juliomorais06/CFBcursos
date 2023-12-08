@@ -8,3 +8,4 @@ C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula
 C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula62-Componentes.csproj.CoreCompileInputs.cache
 C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula63-Componentes.exe
 C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula63-Componentes.pdb
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula63_Componentes.F_Veiculos.resources

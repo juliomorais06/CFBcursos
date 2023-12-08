@@ -44,5 +44,11 @@ namespace Aula63_Componentes
             tb_veiculo.Clear();
             tb_veiculo.Focus();
         }
+
+        private void btn_mostrar_Click(object sender, EventArgs e)
+        {
+            F_Veiculos f_Veiculos = new F_Veiculos(tb_listaVeiculos.Text);
+            f_Veiculos.ShowDialog();
+        }
     }
 }
