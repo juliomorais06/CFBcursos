@@ -57,5 +57,22 @@ namespace Aula63_Componentes
         {
             MessageBox.Show(num.ToString());
         }
+
+        private void tb_listaVeiculos_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkboxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_CheckBox f_CheckBox = new F_CheckBox();
+            f_CheckBox.ShowDialog();
+        }
+
+        private void checkedlistboxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_CheckedListBox f_CheckedListBox = new F_CheckedListBox();
+            f_CheckedListBox.ShowDialog();
+        }
     }
 }
