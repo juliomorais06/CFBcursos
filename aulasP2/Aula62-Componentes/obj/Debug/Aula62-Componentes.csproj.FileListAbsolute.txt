@@ -11,3 +11,4 @@ C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula
 C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula63_Componentes.F_Veiculos.resources
 C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula63_Componentes.F_CheckBox.resources
 C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula63_Componentes.F_CheckedListBox.resources
+C:\Users\2500k\Desktop\Julio\CFBcursos\aulasP2\Aula62-Componentes\obj\Debug\Aula63_Componentes.F_filhoCheckBox.resources

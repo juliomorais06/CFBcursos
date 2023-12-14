@@ -61,5 +61,11 @@ namespace Aula63_Componentes
             else
                 MessageBox.Show("Patinete desmarcado");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            F_filhoCheckBox f_filho = new F_filhoCheckBox();
+            f_filho.ShowDialog();
+        }
     }
 }
