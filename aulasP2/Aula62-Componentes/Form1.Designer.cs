@@ -39,14 +39,15 @@
             this.componentesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.checkboxToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.checkedlistboxToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.comboBoxToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // btn_adicionar
             // 
-            this.btn_adicionar.Location = new System.Drawing.Point(190, 45);
+            this.btn_adicionar.Location = new System.Drawing.Point(139, 45);
             this.btn_adicionar.Name = "btn_adicionar";
-            this.btn_adicionar.Size = new System.Drawing.Size(100, 20);
+            this.btn_adicionar.Size = new System.Drawing.Size(115, 20);
             this.btn_adicionar.TabIndex = 0;
             this.btn_adicionar.Text = "Adicionar";
             this.btn_adicionar.UseVisualStyleBackColor = true;
@@ -56,7 +57,7 @@
             // 
             this.tb_veiculo.Location = new System.Drawing.Point(13, 45);
             this.tb_veiculo.Name = "tb_veiculo";
-            this.tb_veiculo.Size = new System.Drawing.Size(170, 20);
+            this.tb_veiculo.Size = new System.Drawing.Size(122, 20);
             this.tb_veiculo.TabIndex = 1;
             // 
             // label1
@@ -72,11 +73,11 @@
             // tb_listaVeiculos
             // 
             this.tb_listaVeiculos.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tb_listaVeiculos.Location = new System.Drawing.Point(13, 71);
+            this.tb_listaVeiculos.Location = new System.Drawing.Point(13, 72);
             this.tb_listaVeiculos.Multiline = true;
             this.tb_listaVeiculos.Name = "tb_listaVeiculos";
             this.tb_listaVeiculos.ReadOnly = true;
-            this.tb_listaVeiculos.Size = new System.Drawing.Size(276, 247);
+            this.tb_listaVeiculos.Size = new System.Drawing.Size(243, 191);
             this.tb_listaVeiculos.TabIndex = 3;
             this.tb_listaVeiculos.TextChanged += new System.EventHandler(this.tb_listaVeiculos_TextChanged);
             // 
@@ -112,11 +113,12 @@
             // 
             // menuStrip1
             // 
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(24, 24);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.componentesToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(301, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(308, 24);
             this.menuStrip1.TabIndex = 7;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -124,7 +126,8 @@
             // 
             this.componentesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.checkboxToolStripMenuItem,
-            this.checkedlistboxToolStripMenuItem});
+            this.checkedlistboxToolStripMenuItem,
+            this.comboBoxToolStripMenuItem});
             this.componentesToolStripMenuItem.Name = "componentesToolStripMenuItem";
             this.componentesToolStripMenuItem.Size = new System.Drawing.Size(94, 20);
             this.componentesToolStripMenuItem.Text = "Componentes";
@@ -143,11 +146,18 @@
             this.checkedlistboxToolStripMenuItem.Text = "Checkedlistbox";
             this.checkedlistboxToolStripMenuItem.Click += new System.EventHandler(this.checkedlistboxToolStripMenuItem_Click);
             // 
+            // comboBoxToolStripMenuItem
+            // 
+            this.comboBoxToolStripMenuItem.Name = "comboBoxToolStripMenuItem";
+            this.comboBoxToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.comboBoxToolStripMenuItem.Text = "ComboBox";
+            this.comboBoxToolStripMenuItem.Click += new System.EventHandler(this.comboBoxToolStripMenuItem_Click);
+            // 
             // F_Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(301, 449);
+            this.ClientSize = new System.Drawing.Size(308, 418);
             this.Controls.Add(this.btn_valNum);
             this.Controls.Add(this.btn_mostrar);
             this.Controls.Add(this.btn_limpar);
@@ -182,6 +192,7 @@
         private System.Windows.Forms.ToolStripMenuItem componentesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem checkboxToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem checkedlistboxToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem comboBoxToolStripMenuItem;
     }
 }
 

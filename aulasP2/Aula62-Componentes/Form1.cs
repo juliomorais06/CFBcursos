@@ -74,5 +74,11 @@ namespace Aula63_Componentes
             F_CheckedListBox f_CheckedListBox = new F_CheckedListBox();
             f_CheckedListBox.ShowDialog();
         }
+
+        private void comboBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            btn_adicionarNovoTransporte f_combobox = new btn_adicionarNovoTransporte();
+            f_combobox.ShowDialog();
+        }
     }
 }
